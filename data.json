@@ -13,14 +13,14 @@
     "harga": 120000,
     "deskripsi": "Kue lembut bercita rasa teh hijau matcha yang wangi dan tidak terlalu manis.",
     "gambar": "https://raw.githubusercontent.com/mecaaww/SBakeHappy/refs/heads/main/KueTartMatcha.jpeg"
-  }
+  },
   {
     "id": "K003",
     "nama": "Kue Tart Strawberry",
     "harga": 120000,
     "deskripsi": "Kue manis dengan lapisan krim dan topping strawberry segar yang menyegarkan.",
     "gambar": "https://raw.githubusercontent.com/mecaaww/SBakeHappy/refs/heads/main/KueTartStrawberry.jpeg"
-  }
+  },
   {
     "id": "K004",
     "nama": "Kue Tart Coklat",
