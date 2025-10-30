@@ -4,7 +4,7 @@
     "nama": "Roti Sobek",
     "harga": 15000,
     "deskripsi": "Roti lembut berisi cokelat manis yang lumer di setiap gigitan. Cocok disantap hangat dengan teh atau kopi.",
-    "gambar": "https://raw.githubusercontent.com/mecaaww/SBakeHappy/refs/heads/main/RotiSobek.jpeg"
+    "gambar": "https://raw.githubusercontent.com/mecaaww/SBakeHappy/refs/heads/main/Roti Sobek .jpeg"
   },
   {
     "id": "K002",
@@ -39,6 +39,6 @@
     "nama": "Donat Gula",
     "harga": 10000,
     "deskripsi": "Donat klasik bertabur gula halus yang lembut di mulut, dengan tekstur empuk dan aroma menggoda.",
-    "gambar": "https://raw.githubusercontent.com/mecaaww/SBakeHappy/main/DonatGula.jpeg"
+    "gambar": "https://raw.githubusercontent.com/mecaaww/SBakeHappy/main/Donat.jpeg"
   }
 ]
