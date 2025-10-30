@@ -32,13 +32,13 @@
     "nama": "Roti Pisang Cokelat",
     "harga": 17000,
     "deskripsi": "Roti lembut berisi pisang manis dan cokelat leleh yang berpadu sempurna, cocok untuk camilan sore.",
-    "gambar": "https://raw.githubusercontent.com/mecaaww/SBakeHappy/refs/heads/main/RotiPisangCokelat.jpeg"
+    "gambar": "https://raw.githubusercontent.com/mecaaww/SBakeHappy/main/RotiPisangCokelat.jpeg"
   },
   {
     "id": "K006",
     "nama": "Donat Gula",
     "harga": 10000,
     "deskripsi": "Donat klasik bertabur gula halus yang lembut di mulut, dengan tekstur empuk dan aroma menggoda.",
-    "gambar": "https://raw.githubusercontent.com/mecaaww/SBakeHappy/refs/heads/main/DonatGula.jpeg"
+    "gambar": "https://raw.githubusercontent.com/mecaaww/SBakeHappy/main/DonatGula.jpeg"
   }
 ]
