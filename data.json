@@ -4,7 +4,7 @@
     "nama": "Roti Sobek Cokelat",
     "harga": 15000,
     "deskripsi": "Roti lembut berisi cokelat manis yang lumer di setiap gigitan. Cocok disantap hangat dengan teh atau kopi.",
-    "gambar": "https://raw.githubusercontent.com/mecaaww/SBakeHappy/refs/heads/main/Roti%20Sobek%20.jpeg"
+    "gambar": "https://raw.githubusercontent.com/mecaaww/SBakeHappy/refs/heads/main/Rotisobek.jpeg"
   },
   {
     "id": "K002",
@@ -16,29 +16,29 @@
   {
     "id": "K003",
     "nama": "Kue Tart Strawberry",
-    "harga": 150000,
+    "harga": 120000,
     "deskripsi": "Kue manis dengan lapisan krim dan topping strawberry segar yang menyegarkan.",
     "gambar": "https://raw.githubusercontent.com/mecaaww/SBakeHappy/refs/heads/main/KueTartStrawberry.jpeg"
   },
   {
     "id": "K004",
     "nama": "Kue Tart Coklat",
-    "harga": 100000,
+    "harga": 120000,
     "deskripsi": "Kue coklat lembut dengan rasa manis legit dan aroma coklat pekat.",
     "gambar": "https://raw.githubusercontent.com/mecaaww/SBakeHappy/refs/heads/main/KueTartCoklat.jpeg"
-  }
+  },
   {
     "id": "K005",
-    "nama": "Donat",
-    "harga": 5000,
-    "deskripsi": "Donat klasik bertabur gula halus yang lembut di mulut. Teksturnya empuk dan pas untuk camilan kapan saja.",
-    "gambar": "https://raw.githubusercontent.com/mecaaww/SBakeHappy/refs/heads/main/Donat.jpeg"
+    "nama": "Roti Pisang Cokelat",
+    "harga": 17000,
+    "deskripsi": "Roti lembut berisi pisang manis dan cokelat leleh yang berpadu sempurna, cocok untuk camilan sore.",
+    "gambar": "https://raw.githubusercontent.com/mecaaww/SBakeHappy/refs/heads/main/RotiPisangCokelat.jpeg"
   },
   {
     "id": "K006",
-    "nama": "Roti Pisang Coklat",
+    "nama": "Donat Gula",
     "harga": 10000,
-    "deskripsi": "Kombinasi sempurna antara pisang manis dan lelehan cokelat. Roti ini punya aroma menggoda dan rasa yang bikin nagih.",
-    "gambar": "https://raw.githubusercontent.com/mecaaww/SBakeHappy/refs/heads/main/Rotipisangcoklat.jpeg"
-  },
+    "deskripsi": "Donat klasik bertabur gula halus yang lembut di mulut, dengan tekstur empuk dan aroma menggoda.",
+    "gambar": "https://raw.githubusercontent.com/mecaaww/SBakeHappy/refs/heads/main/DonatGula.jpeg"
+  }
 ]
