@@ -1,0 +1,18 @@
+[
+  {
+    "id": "K001",
+    "nama": "Roti Sobek Cokelat",
+    "harga": 15000,
+    "stok": 12,
+    "bahan": "Tepung, cokelat, susu, mentega",
+    "gambar": "https://raw.githubusercontent.com/username/katalog-toko-kue/main/images/roti-cokelat.jpg"
+  },
+  {
+    "id": "K002",
+    "nama": "Kue Tart Strawberry",
+    "harga": 120000,
+    "stok": 5,
+    "bahan": "Tepung, telur, strawberry, whip cream",
+    "gambar": "https://raw.githubusercontent.com/username/katalog-toko-kue/main/images/kue-tart.jpg"
+  }
+]
