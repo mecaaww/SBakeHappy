@@ -1,10 +1,10 @@
 [
   {
     "id": "K001",
-    "nama": "Roti Sobek Cokelat",
+    "nama": "Roti Sobek",
     "harga": 15000,
     "deskripsi": "Roti lembut berisi cokelat manis yang lumer di setiap gigitan. Cocok disantap hangat dengan teh atau kopi.",
-    "gambar": "https://raw.githubusercontent.com/mecaaww/SBakeHappy/refs/heads/main/Rotisobek.jpeg"
+    "gambar": "https://raw.githubusercontent.com/mecaaww/SBakeHappy/refs/heads/main/RotiSobek.jpeg"
   },
   {
     "id": "K002",
